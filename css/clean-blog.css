@@ -348,6 +348,7 @@ footer .copyright {
     margin: 0 auto;
     padding: 0;
     position: relative;
+    top: -20px;
 }
 
 .showcase .examples {
@@ -396,4 +397,6 @@ footer .copyright {
     width: 100%;
     content: ' ';
     z-index: 2;
+    position: relative;
+    top: 20px;
 }
