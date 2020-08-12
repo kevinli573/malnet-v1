@@ -341,3 +341,37 @@ footer .copyright {
     padding: 25px 35px
 }
 
+.showcase {
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+}
+
+.showcase .examples {
+    margin: 0 auto;
+    height: 300px;
+    width: 1300px;
+    line-height: 0;
+}
+
+.preview {
+    display: block;
+    float: left;
+    padding: 0.5em 0;
+    padding-right: 0.5em;
+    width: 180px;
+    height: 100px;
+    outline: 1px solid #ddd;
+    overflow: hidden;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-position 2s;
+}
+
+.preview:hover {
+    background-position: 0 100%;
+}
