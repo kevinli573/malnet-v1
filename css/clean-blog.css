@@ -390,6 +390,10 @@ footer .copyright {
 }
 
 .showcase:before {
-    background-color: red;
+    background-color: yellow;
+    display: block;
+    height: 20px;
+    width: 100%;
+    content: ' ';
     z-index: 2;
 }
