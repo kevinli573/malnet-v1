@@ -388,3 +388,8 @@ footer .copyright {
     font-weight: 300;
     font-size: 2.5em;
 }
+
+.showcase:before {
+    background-color: red;
+    z-index: 2;
+}
