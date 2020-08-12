@@ -375,3 +375,9 @@ footer .copyright {
 .preview:hover {
     background-position: 0 100%;
 }
+
+.malnet-title {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
