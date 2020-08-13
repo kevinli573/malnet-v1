@@ -352,7 +352,7 @@ footer .copyright {
 
 .showcase .examples {
     margin: 0 auto;
-    height: 300px;
+    height: 340px;
     width: 1300px;
     line-height: 0;
 }
@@ -402,5 +402,4 @@ footer .copyright {
     content: ' ';
     z-index: 2;
     position: relative;
-    top: -20px;
 }
