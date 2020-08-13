@@ -348,7 +348,6 @@ footer .copyright {
     margin: 0 auto;
     padding: 0;
     position: relative;
-    top: -20px;
 }
 
 .showcase .examples {
@@ -399,6 +398,7 @@ footer .copyright {
     z-index: 2;
     background-color: red;
     position: relative;
+    top: 0px;
 }
 
 .showcase:before {
@@ -409,5 +409,6 @@ footer .copyright {
     z-index: 2;
     background-color: red;
     position: relative;
+    top: 0px;
 }
 
