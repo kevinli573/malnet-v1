@@ -360,8 +360,6 @@ footer .copyright {
 .preview {
     display: block;
     float: left;
-    padding: 0.5em 0;
-    padding-right: 0.5em;
     width: 216px;
     height: 100px;
     outline: 1px solid #ddd;
@@ -398,7 +396,6 @@ footer .copyright {
     z-index: 2;
     background-color: red;
     position: relative;
-    top: 0px;
 }
 
 .showcase:before {
@@ -409,6 +406,4 @@ footer .copyright {
     z-index: 2;
     background-color: red;
     position: relative;
-    top: 0px;
 }
-
