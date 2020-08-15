@@ -85,7 +85,7 @@ img::-moz-selection {
     position: sticky;
     background-color: black;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    height: 8vh;
+    /*height: 8vh;*/
 }
 
 #mainNav .navbar-brand {
@@ -116,7 +116,7 @@ header.masthead {
     background-attachment: scroll;
     position: relative;
     background-size:cover;
-    height: 92vh;
+    /*height: 92vh;*/
 }
 
 header.masthead .overlay {
