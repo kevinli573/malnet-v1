@@ -83,7 +83,7 @@ img::-moz-selection {
 
 #mainNav {
     position: sticky;
-    background-color: black;
+    background-color: #3B3B3B;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     /*height: 8vh;*/
 }
