@@ -83,7 +83,7 @@ img::-moz-selection {
 
 #mainNav {
     position: sticky;
-    background-color: #3B3B3B;
+    background-color: #000000;
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     /*height: 8vh;*/
 }
@@ -107,6 +107,10 @@ img::-moz-selection {
     text-transform:uppercase;
     color: white;
     padding: 20px 30px;
+}
+
+#mainNav .navbar-nav > li.nav-item > a:hover {
+    color: gold;
 }
 
 header.masthead {
