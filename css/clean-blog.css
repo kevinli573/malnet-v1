@@ -407,6 +407,11 @@ footer .copyright {
     position: relative;
 }
 
+.new-col-lg-8 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 @media (min-width: 992px)
 .new-col-lg-8 {
     -ms-flex: 0 0 100%;
