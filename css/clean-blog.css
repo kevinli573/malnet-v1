@@ -412,6 +412,7 @@ footer .copyright {
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
     max-width: 100%;
+    width: 100%;
 }
 
 @media (min-width: 768px)
@@ -419,6 +420,7 @@ footer .copyright {
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
     max-width: 100%;
+    width: 100%;
 }
 
 .publication-card-container {
