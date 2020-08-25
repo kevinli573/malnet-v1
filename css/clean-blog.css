@@ -437,8 +437,12 @@ footer .copyright {
   width: 33%;
   box-sizing: border-box;
   margin-bottom:20px;
-  padding-right:15px;
-  padding-left:15px;
+}
+
+.card-info {
+  width: 100%;
+  margin-right:15px;
+  margin-left:15px;
 }
 
 @media screen and (max-width: 500px) {
